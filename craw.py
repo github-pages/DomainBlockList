@@ -60,7 +60,7 @@ def run():
             logger.info('    [i] ' + str(round_num) + ' git push finished!')
             logger.info('[i] ' + str(round_num) + ' Round finished! Sleep 3600 sec')
             round_num += 1
-            time.sleep(3600)
+            time.sleep(21600)
 
         except:
             util.wxpush('Crawl', 'Error！', True)
