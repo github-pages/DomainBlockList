@@ -43,9 +43,9 @@ The structure of the code is the following:
  * They can be integrated into the firewall as rules.
  * They can be used for data mining, for example as the Feed of Peeker.
 
-**When the data is updated?**
+**How often is the data updated?**
 
- * Updated every hour.
+ * Update data every 6 hours
  
 ## 🚩 License
 The code is available under the [MIT license](LICENSE.md).

@@ -60,10 +60,11 @@ def run():
             logger.info('    [i] ' + str(round_num) + ' git push finished!')
             logger.info('[i] ' + str(round_num) + ' Round finished! Sleep 3600 sec')
             round_num += 1
+            util.wxpush('Crawl.service Log', '第' + round_num + '轮DomainBlockList爬取服务结束！一切正常', True)
             time.sleep(21600)
 
         except:
-            util.wxpush('Crawl', 'Error！', True)
+            util.wxpush('Crawl.service Error Log', '在第' + round_num + '轮DomainBlockList爬取服务发生错误！请管理员叙述查证！', True)
             logger.exception("Main")
 
 

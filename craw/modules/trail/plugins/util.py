@@ -81,7 +81,7 @@ def wxpush(title, content, option):
                     "title": title,
                     "text": content,
                     "color": "#ffa500",
-                    "images": [{"url": "http://img3.douban.com/icon/ul15067564-30.jpg"}]
+                    "images": [{"url": "http://i1.fuimg.com/661719/4e7f8e384e2ff9fc.png"}]
                 }
             ]
         }
