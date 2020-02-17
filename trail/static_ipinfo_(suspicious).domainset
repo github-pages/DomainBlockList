@@ -3,7 +3,7 @@
 # Maintainer URL: (static)
 # Maintainer: xlh
 # List source URL: (static)
-# Source File Date: Mon Feb 17 22:32:39 2020
+# Source File Date: Tue Feb 18 04:35:35 2020
 # Category: ipinfo (suspicious)
 # 
 2ip.me
@@ -257,3 +257,5 @@ ipstack.com
 get.geojs.io
 89.39.105.12/ip.shtml
 getmyip.win
+apps.game.qq.com/comm-htdocs/ip/get_ip.php
+sfml-dev.org/ip-provider.php
