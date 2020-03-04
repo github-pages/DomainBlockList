@@ -3,7 +3,7 @@
 # Maintainer URL: (static)
 # Maintainer: xlh
 # List source URL: (static)
-# Source File Date: Wed Mar  4 20:04:55 2020
+# Source File Date: Thu Mar  5 00:56:53 2020
 # Category: rogue dns (suspicious)
 # 
 1.53.252.164:53
@@ -542,7 +542,6 @@ ns2.dnshost.ga
 142.53.169.189:53
 167.99.40.72:53
 198.211.125.184:53
-45.56.92.19:53
 82.102.14.218:53
 82.196.11.127:53
 89.163.206.26:53
