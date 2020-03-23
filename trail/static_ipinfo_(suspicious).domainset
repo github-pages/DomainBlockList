@@ -3,7 +3,7 @@
 # Maintainer URL: (static)
 # Maintainer: xlh
 # List source URL: (static)
-# Source File Date: Mon Mar 23 19:34:33 2020
+# Source File Date: Tue Mar 24 01:44:36 2020
 # Category: ipinfo (suspicious)
 # 
 2ip.me
@@ -259,3 +259,4 @@ get.geojs.io
 getmyip.win
 apps.game.qq.com/comm-htdocs/ip/get_ip.php
 sfml-dev.org/ip-provider.php
+sypexgeo.net
