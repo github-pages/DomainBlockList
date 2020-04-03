@@ -3,7 +3,7 @@
 # Maintainer URL: (static)
 # Maintainer: xlh
 # List source URL: (static)
-# Source File Date: Fri Apr  3 10:31:32 2020
+# Source File Date: Fri Apr  3 16:37:28 2020
 # Category: crypto mining (suspicious)
 # 
 mining-help.ru
@@ -97,3 +97,6 @@ hns.f2pool.com
 37.187.154.79:5555
 37.59.54.205:5555
 37.59.55.60:5555
+103.195.4.139:443
+178.128.108.158:443
+68.183.182.120:443
